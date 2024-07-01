@@ -24,7 +24,7 @@ Este repositório foi uma valiosa fonte de aprendizado para mim, em busca de apr
 
 ## 🔶 Diagrama de UML
 
-<img src="UML-IPhone-Java.drawio.svg" alt="Texto Alternativo">
+<img src="UML-IPhone-Java1.drawio.svg" alt="Texto Alternativo">
 
 
 ## ❓  Dúvidas
